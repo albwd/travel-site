@@ -778,7 +778,7 @@ a {
 
 .feature-item {
 	position: relative;
-	padding-bottom: 2.6rem;
+	padding-bottom: 2.5rem;
 }
 
 @media (min-width: 530px) {
@@ -788,22 +788,14 @@ a {
   }
 }
 
-<<<<<<< HEAD
-
-=======
->>>>>>> our-feature
-	.feature-item__icon {
+.feature-item__icon {
   display:block;
   margin : 0 auto;
 }
 
 @media (min-width: 530px) {
 
-  <<<<<<< HEAD
-
-=======
->>>>>>> our-feature
-	.feature-item__icon {
+  .feature-item__icon {
     position: absolute;
     left: 0;
   }
